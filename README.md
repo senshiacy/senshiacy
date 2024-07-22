@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">Welcome to my Github page!</h1>
+<h1 align="center">Welcome to my Github profile!</h1>
 
 ###
 
